@@ -219,7 +219,10 @@ input[type="submit"] {
 ::-webkit-input-placeholder { color: $dark; }
 
 
-
+.navbar-brand > img {
+	position: absolute;
+	top: 3px;
+}
 
 
 
